@@ -11,4 +11,6 @@
   * [11.3 Следование за объектом](untitled/11.3-sledovanie-za-obektom/README.md)
     * [11.3.1 Добавление глубины в трекер объектов](untitled/11.3-sledovanie-za-obektom/11.3.1-dobavlenie-glubiny-v-treker-obektov.md)
     * [11.3.2 Тестирование следования за объектом с помощью имитируемого робота](untitled/11.3-sledovanie-za-obektom/11.3.2-testirovanie-sledovaniya-za-obektom-s-pomoshyu-imitiruemogo-robota.md)
+* [Что-то еще](chto-to-eshe/README.md)
+  * [КАВО](chto-to-eshe/kavo.md)
 

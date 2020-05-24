@@ -11,4 +11,6 @@
   * [11.3 Следование за объектом](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.3-sledovanie-za-obektom/README.md)
     * [11.3.1 Добавление глубины в трекер объектов](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.3-sledovanie-za-obektom/11.3.1-dobavlenie-glubiny-v-treker-obektov.md)
     * [11.3.2 Тестирование следования за объектом с помощью имитируемого робота](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.3-sledovanie-za-obektom/11.3.2-testirovanie-sledovaniya-za-obektom-s-pomoshyu-imitiruemogo-robota.md)
+    * [11.3.3 Cледование за объектом на реальном роботе](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.3-sledovanie-za-obektom/11.3.3-cledovanie-za-obektom-na-realnom-robote.md)
+  * [11.4 Следование за человеком](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.4-sledovanie-za-chelovekom.md)
 

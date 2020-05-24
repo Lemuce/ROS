@@ -14,4 +14,5 @@
     * [11.3.3 Cледование за объектом на реальном роботе](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.3-sledovanie-za-obektom/11.3.3-cledovanie-za-obektom-na-realnom-robote.md)
   * [11.4 Следование за человеком](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.4-sledovanie-za-chelovekom/README.md)
     * [11.4.1 Тестирование приложения Follower в симуляторе](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.4-sledovanie-za-chelovekom/11.4.1-testirovanie-prilozheniya-follower-v-simulyatore.md)
+    * [11.4.2 Понимание скрипта Follower](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.4-sledovanie-za-chelovekom/11.4.2-ponimanie-skripta-follower.md)
 

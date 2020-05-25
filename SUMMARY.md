@@ -17,4 +17,5 @@
     * [11.4.2 Понимание скрипта Follower](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.4-sledovanie-za-chelovekom/11.4.2-ponimanie-skripta-follower.md)
     * [11.4.3 Запуск приложения Follower на TurtleBot](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.4-sledovanie-za-chelovekom/untitled.md)
     * [11.4.4 Запуск узла Follower в отфильтрованном облаке точек](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.4-sledovanie-za-chelovekom/11.4.4-zapusk-uzla-follower-v-otfiltrovannom-oblake-tochek.md)
+* [12. СЕРВОПРИВОДЫ DYNAMIXEL И ROS](12.-servoprivody-dynamixel-i-ros.md)
 

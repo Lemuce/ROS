@@ -19,4 +19,5 @@
     * [11.4.4 Запуск узла Follower в отфильтрованном облаке точек](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.4-sledovanie-za-chelovekom/11.4.4-zapusk-uzla-follower-v-otfiltrovannom-oblake-tochek.md)
 * [12. СЕРВОПРИВОДЫ DYNAMIXEL И ROS](12.-servoprivody-dynamixel-i-ros/README.md)
   * [12.1 TurtleBot с панорамно-наклонной головкой](12.-servoprivody-dynamixel-i-ros/12.1-turtlebot-s-panoramno-naklonnoi-golovkoi.md)
+  * [12.2 Выбор аппаратного контроллера Dynamixel](12.-servoprivody-dynamixel-i-ros/12.2-vybor-apparatnogo-kontrollera-dynamixel.md)
 

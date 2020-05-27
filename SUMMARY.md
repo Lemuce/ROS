@@ -17,7 +17,11 @@
     * [11.4.2 Понимание скрипта Follower](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.4-sledovanie-za-chelovekom/11.4.2-ponimanie-skripta-follower.md)
     * [11.4.3 Запуск приложения Follower на TurtleBot](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.4-sledovanie-za-chelovekom/untitled.md)
     * [11.4.4 Запуск узла Follower в отфильтрованном облаке точек](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.4-sledovanie-za-chelovekom/11.4.4-zapusk-uzla-follower-v-otfiltrovannom-oblake-tochek.md)
-* [12. СЕРВОПРИВОДЫ DYNAMIXEL И ROS](12.-servoprivody-dynamixel-i-ros/README.md)
-  * [12.1 TurtleBot с панорамно-наклонной головкой](12.-servoprivody-dynamixel-i-ros/12.1-turtlebot-s-panoramno-naklonnoi-golovkoi.md)
+* [Глава 12. Сервоприводы Dynamixel и ROS](12.-servoprivody-dynamixel-i-ros/README.md)
+  * [12.1 TurtleBot с панорамной головкой](12.-servoprivody-dynamixel-i-ros/12.1-turtlebot-s-panoramno-naklonnoi-golovkoi.md)
   * [12.2 Выбор аппаратного контроллера Dynamixel](12.-servoprivody-dynamixel-i-ros/12.2-vybor-apparatnogo-kontrollera-dynamixel.md)
+  * [12.3 Примечание, Касающееся Аппаратного Обеспечения Dynamixel](12.-servoprivody-dynamixel-i-ros/12.3-primechanie-kasayusheesya-apparatnogo-obespecheniya-dynamixel.md)
+  * [12.4 Выбор ROS Dynamixel пакета](12.-servoprivody-dynamixel-i-ros/12.4-vybor-ros-dynamixel-paketa.md)
+  * [12.5 Понимание типа сообщения ROS JointState](12.-servoprivody-dynamixel-i-ros/12.5-ponimanie-tipa-soobsheniya-ros-jointstate.md)
+  * [12.6 Контроль положения шарнира, скорости и крутящего момента](12.-servoprivody-dynamixel-i-ros/12.6-kontrol-polozheniya-sharnira-skorosti-i-krutyashego-momenta.md)
 

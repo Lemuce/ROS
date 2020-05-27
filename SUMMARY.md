@@ -29,4 +29,7 @@
     * [12.6.3 Управление крутящим моментом сервопривода](12.-servoprivody-dynamixel-i-ros/12.6-kontrol-polozheniya-sharnira-skorosti-i-krutyashego-momenta/12.6.3-upravlenie-krutyashim-momentom-servoprivoda.md)
   * [12.7 Проверка подключения USB2Dynamixel](12.-servoprivody-dynamixel-i-ros/12.7-proverka-podklyucheniya-usb2dynamixel.md)
   * [12.8 Настройка аппаратных идентификаторов сервоприводов](12.-servoprivody-dynamixel-i-ros/12.8-nastroika-apparatnykh-identifikatorov-servoprivodov.md)
+  * [12.9 Настройка и запуск dynamixel\_controllers](12.-servoprivody-dynamixel-i-ros/12.9-nastroika-i-zapusk-dynamixel_controllers/README.md)
+    * [12.9.1 Конфигурационный файл dynamixel\_controllers](12.-servoprivody-dynamixel-i-ros/12.9-nastroika-i-zapusk-dynamixel_controllers/12.9.1-konfiguracionnyi-fail-dynamixel_controllers.md)
+    * [12.9.2 launch-файл dynamixel\_controllers](12.-servoprivody-dynamixel-i-ros/12.9-nastroika-i-zapusk-dynamixel_controllers/12.9.2-launch-fail-dynamixel_controllers.md)
 

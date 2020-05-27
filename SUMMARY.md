@@ -23,5 +23,9 @@
   * [12.3 Примечание, Касающееся Аппаратного Обеспечения Dynamixel](12.-servoprivody-dynamixel-i-ros/12.3-primechanie-kasayusheesya-apparatnogo-obespecheniya-dynamixel.md)
   * [12.4 Выбор ROS Dynamixel пакета](12.-servoprivody-dynamixel-i-ros/12.4-vybor-ros-dynamixel-paketa.md)
   * [12.5 Понимание типа сообщения ROS JointState](12.-servoprivody-dynamixel-i-ros/12.5-ponimanie-tipa-soobsheniya-ros-jointstate.md)
-  * [12.6 Контроль положения шарнира, скорости и крутящего момента](12.-servoprivody-dynamixel-i-ros/12.6-kontrol-polozheniya-sharnira-skorosti-i-krutyashego-momenta.md)
+  * [12.6 Контроль положения шарнира, скорости и крутящего момента](12.-servoprivody-dynamixel-i-ros/12.6-kontrol-polozheniya-sharnira-skorosti-i-krutyashego-momenta/README.md)
+    * [12.6.1 Установка положения сервопривода](12.-servoprivody-dynamixel-i-ros/12.6-kontrol-polozheniya-sharnira-skorosti-i-krutyashego-momenta/12.6.1-ustanovka-polozheniya-servoprivoda.md)
+    * [12.6.2 Настройка скорости сервопривода](12.-servoprivody-dynamixel-i-ros/12.6-kontrol-polozheniya-sharnira-skorosti-i-krutyashego-momenta/12.6.2-nastroika-skorosti-servoprivoda.md)
+    * [12.6.3 Управление крутящим моментом сервопривода](12.-servoprivody-dynamixel-i-ros/12.6-kontrol-polozheniya-sharnira-skorosti-i-krutyashego-momenta/12.6.3-upravlenie-krutyashim-momentom-servoprivoda.md)
+  * [12.7 Проверка подключения USB2Dynamixel](12.-servoprivody-dynamixel-i-ros/12.7-proverka-podklyucheniya-usb2dynamixel.md)
 

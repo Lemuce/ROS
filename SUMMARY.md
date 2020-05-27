@@ -28,4 +28,5 @@
     * [12.6.2 Настройка скорости сервопривода](12.-servoprivody-dynamixel-i-ros/12.6-kontrol-polozheniya-sharnira-skorosti-i-krutyashego-momenta/12.6.2-nastroika-skorosti-servoprivoda.md)
     * [12.6.3 Управление крутящим моментом сервопривода](12.-servoprivody-dynamixel-i-ros/12.6-kontrol-polozheniya-sharnira-skorosti-i-krutyashego-momenta/12.6.3-upravlenie-krutyashim-momentom-servoprivoda.md)
   * [12.7 Проверка подключения USB2Dynamixel](12.-servoprivody-dynamixel-i-ros/12.7-proverka-podklyucheniya-usb2dynamixel.md)
+  * [12.8 Настройка аппаратных идентификаторов сервоприводов](12.-servoprivody-dynamixel-i-ros/12.8-nastroika-apparatnykh-identifikatorov-servoprivodov.md)
 

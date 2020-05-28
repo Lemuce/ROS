@@ -41,4 +41,5 @@
     * [12.10.6 Использование скрипта relax\_all\_servos.py](12.-servoprivody-dynamixel-i-ros/12.10-testirovanie-servoprivodov/12.10.6-ispolzovanie-skripta-relax_all_servos.py.md)
   * [12.11 Отслеживание визуальной цели](12.-servoprivody-dynamixel-i-ros/12.11-otslezhivanie-vizualnoi-celi/README.md)
     * [12.11.1 Отслеживание лица](12.-servoprivody-dynamixel-i-ros/12.11-otslezhivanie-vizualnoi-celi/12.11.1-otslezhivanie-lica.md)
+    * [12.11.2 Скрипт отслеживания головы](12.-servoprivody-dynamixel-i-ros/12.11-otslezhivanie-vizualnoi-celi/12.11.2-skript-otslezhivaniya-golovy.md)
 

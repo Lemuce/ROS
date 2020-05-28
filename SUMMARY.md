@@ -32,4 +32,13 @@
   * [12.9 Настройка и запуск dynamixel\_controllers](12.-servoprivody-dynamixel-i-ros/12.9-nastroika-i-zapusk-dynamixel_controllers/README.md)
     * [12.9.1 Конфигурационный файл dynamixel\_controllers](12.-servoprivody-dynamixel-i-ros/12.9-nastroika-i-zapusk-dynamixel_controllers/12.9.1-konfiguracionnyi-fail-dynamixel_controllers.md)
     * [12.9.2 launch-файл dynamixel\_controllers](12.-servoprivody-dynamixel-i-ros/12.9-nastroika-i-zapusk-dynamixel_controllers/12.9.2-launch-fail-dynamixel_controllers.md)
+  * [12.10 Тестирование сервоприводов](12.-servoprivody-dynamixel-i-ros/12.10-testirovanie-servoprivodov/README.md)
+    * [12.10.1 Запуск контроллеров](12.-servoprivody-dynamixel-i-ros/12.10-testirovanie-servoprivodov/12.10.1-zapusk-kontrollerov.md)
+    * [12.10.2 Мониторинг робота в RViz](12.-servoprivody-dynamixel-i-ros/12.10-testirovanie-servoprivodov/12.10.2-monitoring-robota-v-rviz.md)
+    * [12.10.3 Перечисление топиков контроллеров и мониторинг состояния шарниров](12.-servoprivody-dynamixel-i-ros/12.10-testirovanie-servoprivodov/12.10.3-perechislenie-topikov-kontrollerov-i-monitoring-sostoyaniya-sharnirov.md)
+    * [12.10.4 Перечисление служб контроллера](12.-servoprivody-dynamixel-i-ros/12.10-testirovanie-servoprivodov/12.10.4-perechislenie-sluzhb-kontrollera.md)
+    * [12.10.5 Настройка положения сервопривода, скорости и крутящего момента](12.-servoprivody-dynamixel-i-ros/12.10-testirovanie-servoprivodov/12.10.5-nastroika-polozheniya-servoprivoda-skorosti-i-krutyashego-momenta.md)
+    * [12.10.6 Использование скрипта relax\_all\_servos.py](12.-servoprivody-dynamixel-i-ros/12.10-testirovanie-servoprivodov/12.10.6-ispolzovanie-skripta-relax_all_servos.py.md)
+  * [12.11 Отслеживание визуальной цели](12.-servoprivody-dynamixel-i-ros/12.11-otslezhivanie-vizualnoi-celi/README.md)
+    * [12.11.1 Отслеживание лица](12.-servoprivody-dynamixel-i-ros/12.11-otslezhivanie-vizualnoi-celi/12.11.1-otslezhivanie-lica.md)
 

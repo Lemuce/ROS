@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Титульная страница](README.md)
+* [Термины](terminy.md)
 * [Глава 11. Совмещение зрения и базового управления](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/README.md)
   * [Подглава 11.1 Примечание о координатных осях камеры](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.1-primechanie-o-koordinatnykh-osyakh-kamery.md)
   * [Подглава 11.2 Отслеживание объектов](glava-11.-sovmeshenie-zreniya-i-bazovogo-upravleniya/11.2-otslezhivanie-obektov/README.md)

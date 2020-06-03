@@ -42,4 +42,7 @@
   * [12.11 Отслеживание визуальной цели](12.-servoprivody-dynamixel-i-ros/12.11-otslezhivanie-vizualnoi-celi/README.md)
     * [12.11.1 Отслеживание лица](12.-servoprivody-dynamixel-i-ros/12.11-otslezhivanie-vizualnoi-celi/12.11.1-otslezhivanie-lica.md)
     * [12.11.2 Скрипт отслеживания головы](12.-servoprivody-dynamixel-i-ros/12.11-otslezhivanie-vizualnoi-celi/12.11.2-skript-otslezhivaniya-golovy.md)
+    * [12.11.3 Отслеживание цветных объектов](12.-servoprivody-dynamixel-i-ros/12.11-otslezhivanie-vizualnoi-celi/12.11.3-otslezhivanie-cvetnykh-obektov.md)
+    * [12.11.4 Отслеживание выбранных вручную целей](12.-servoprivody-dynamixel-i-ros/12.11-otslezhivanie-vizualnoi-celi/12.11.4-otslezhivanie-vybrannykh-vruchnuyu-celei.md)
+  * [Untitled](12.-servoprivody-dynamixel-i-ros/untitled.md)
 
